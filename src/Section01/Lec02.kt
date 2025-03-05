@@ -1,3 +1,5 @@
+package Section01
+
 fun main() {
     val str: String? = null // null이 들어갈 수 있음
     // str.length 안됨

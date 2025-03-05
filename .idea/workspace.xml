@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="188eb083-2884-4d25-9c2a-07adcfb3515d" name="Changes" comment="">
+    <list default="true" id="188eb083-2884-4d25-9c2a-07adcfb3515d" name="Changes" comment="feat: 3강 추가">
+      <change afterPath="$PROJECT_DIR$/src/Section01/Lec04.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section01/Money.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lec01.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec01.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lec02.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec02.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lec03.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec03.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec01.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section01/Lec01.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec02.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section01/Lec02.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec03.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section01/Lec03.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section01/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Kotlin Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -49,7 +51,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.Lec01Kt.executor": "Run",
     "Kotlin.Lec02Kt.executor": "Run",
+    "Kotlin.Lec04Kt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -63,9 +67,28 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Section01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.Lec04Kt">
+    <configuration name="Lec01Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section01.Lec01Kt" />
+      <module name="kotlin-basic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Lec02Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec02Kt" />
+      <option name="MAIN_CLASS_NAME" value="Section01.Lec02Kt" />
+      <module name="kotlin-basic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lec04Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section01.Lec04Kt" />
       <module name="kotlin-basic" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,6 +96,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Lec04Kt" />
+        <item itemvalue="Kotlin.Lec01Kt" />
         <item itemvalue="Kotlin.Lec02Kt" />
       </list>
     </recent_temporary>
@@ -85,11 +110,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1741153664936</updated>
-      <workItem from="1741153665913" duration="8088000" />
+      <workItem from="1741153665913" duration="12407000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: 3강 추가">
+      <option name="closed" value="true" />
+      <created>1741165576975</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741165576975</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: 3강 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 3강 추가" />
   </component>
 </project>

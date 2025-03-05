@@ -1,3 +1,5 @@
+package Section01
+
 fun main() {
     val num1: Int = 10
     val num2: Long = num1.toLong() // 명시적으로 해줘야한다.
@@ -24,7 +26,7 @@ fun main() {
 
 fun printAgeIfPerson1(obj: Any) {
     if (obj is Person) { // instanceOf
-        val person = obj // as Person 생략 가능
+        val person = obj // as Section01.Person 생략 가능
         println(person.name) // 스마트 캐스트
     }
 }

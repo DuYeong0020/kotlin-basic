@@ -1,3 +1,5 @@
+package Section01
+
 fun main() {
     var num1 = 10 // 가변
     val num2 = 20 // 불변
@@ -15,5 +17,5 @@ fun main() {
 
     var num7: Long? = null // null이 들어가고 싶으면 ?
 
-//    var person = Person("최두영") new 쓸필요 ㄴㄴ
+//    var person = Section01.Person("최두영") new 쓸필요 ㄴㄴ
 }

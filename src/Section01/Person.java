@@ -1,5 +1,4 @@
-import org.jetbrains.annotations.NotNull;
-import org.jetbrains.annotations.Nullable;
+package Section01;
 
 public class Person {
     private final String name;
